@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{079BD884-BDAA-7601-B58B-8461416A34F3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GetLocationAroundMe.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PathFinding.cs" Line="49" Column="1" />
+      <File FileName="Assets/Scripts/GetLocationAroundMe.cs" Line="37" Column="59" />
+      <File FileName="Assets/Scripts/Satelite_Settings.cs" />
+      <File FileName="Assets/Scripts/Restart.cs" />
+      <File FileName="Assets/Scripts/Camera_Controller.cs" Line="63" Column="22" />
+      <File FileName="Assets/Text_TotalSats.cs" />
+      <File FileName="Assets/Text_SatsAbove.cs" />
+      <File FileName="Assets/Text_TotalPeers.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Server_Heaven" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="feefbcd4-df25-4552-9cdd-86dde22eb4c5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
